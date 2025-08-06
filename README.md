@@ -3,7 +3,7 @@
 - Semestre: 2025-2
 
 ## Cronograma de aulas:
-1. 30/jul: Apresentação da disciplina. Revisão Java. Associação entre objetos. Arrays de objetos associados.
+1. 30/jul: ~~Apresentação da disciplina. Revisão Java. Associação entre objetos. Arrays de objetos associados.~~
 2. 06/ago: Java: Herança, encapsulamento e polimorfismo.
 3. 13/ago: Java: Interfaces e tratamento de exceções.
 4. 20/ago: Java: Collection, ArrayList, Set, Map.
