@@ -16,9 +16,9 @@
 11. 08/out: Colaboração em equipe e revisões informais.
 12. 15/out: Técnicas de testes de software.
 13. 22/out: Desenvolvimento do trabalho semestral.
-14. 29/out: **A2-2: Defesa do trabalho semestral**
-15. 05/nov: **A2-2: Defesa do trabalho semestral**
-16. 12/nov: **A1: Prova escrita (5,0)**
+14. 29/out: **A2-2: Defesa do trabalho semestral grupo 1 (3,0).**
+15. 05/nov: **A2-2: Defesa do trabalho semestral grupo 2 (3,0).**
+16. 12/nov: **A1: Prova escrita (5,0).**
 17. 19/nov: 
 18. 26/nov: Semana de apresentação de TCCs.
 19. 03/dec: Avaliação Substitutiva.
