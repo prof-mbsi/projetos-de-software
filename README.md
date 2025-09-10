@@ -8,7 +8,7 @@
 3. 13/ago: ~~Java: Interfaces e tratamento de exceções.~~
 4. 20/ago: ~~Java: Collection, ArrayList, Set, Map.~~
 5. 27/ago: ~~Projeto detalhado e redução de complexidade.~~
-6. 03/set: Projeto detalhado e redução de complexidade.
+6. 03/set: ~~Projeto detalhado e redução de complexidade.~~
 7. 10/set: **A2-1: Entrega/apresentação dos documentos de projeto do trabalho semestral (2,0).**
 8. 17/set: Gerenciamento de dependências e construção automatizada.
 9. 24/set: Arquitetura de software para projetos complexos.
