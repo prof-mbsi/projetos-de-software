@@ -11,6 +11,7 @@ public class Ex04 {
 		nomes.add("André");
 		nomes.add("Rodolfo");
 		nomes.add("Geraldo");
+		nomes.add("Dunga");
 		
 		ArrayList<String> remover = new ArrayList<>();
 		
