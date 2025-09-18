@@ -34,7 +34,7 @@ public class Main {
 		coisas.add("Banana");
 		coisas.add("Batata");
 		coisas.add("Maçã");
-		coisas.add("Alface");
+		coisas.add("Cenoura");
 		System.out.println(coisas.contains("Bacana"));
 		
 		System.out.println();
